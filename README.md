@@ -49,8 +49,11 @@ To use the code in this repository, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies listed in `requirements.txt`.
-3. Run the `Demand Forcasting for a Retail Store(1).py` using any compatible environment.
-4. Follow the instructions within the notebook to load, preprocess, and analyze the data, build the sales forecasting model, and interpret the results.
+3. You can use the following command to install all the required packages:
+`pip install -r requirements.txt`
+This will ensure that all necessary libraries are installed with the correct versions to run the code smoothly.
+4. Run the `Demand Forcasting for a Retail Store(1).py` using any compatible environment.
+5. Follow the instructions within the notebook to load, preprocess, and analyze the data, build the sales forecasting model, and interpret the results.
 
 ### Acknowledgments
 
